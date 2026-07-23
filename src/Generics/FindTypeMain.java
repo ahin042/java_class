@@ -1,17 +1,16 @@
-package GenericsClass;
+package Generics;
 
 import java.util.Scanner;
 
-public class StudyBoxMain {
+public class FindTypeMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        StudyBox box = new StudyBox();
+        FindType find = new FindType();
         int a = scanner.nextInt();
         String b = scanner.next();
         Double c = scanner.nextDouble();
-        box.add(a);
-        box.add(b);
-        box.add(c);
-        box.see();
+        System.out.println(find.findtype(a));
+        System.out.println(find.findtype(b));
+        System.out.println(find.findtype(b));
     }
 }
