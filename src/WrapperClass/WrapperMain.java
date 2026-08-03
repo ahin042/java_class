@@ -9,5 +9,6 @@ public class WrapperMain {
         System.out.println(i.intValue());
         System.out.println(d.intValue());
         System.out.println(c.charValue());
+        System.out.println(i.doubleValue());
     }
 }
