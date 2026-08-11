@@ -1,4 +1,4 @@
-package AnonymousClass;
+package Lambda;
 
 public interface Greeting {
     void hello();
