@@ -1,4 +1,4 @@
-package try_catch.Finally;
+package Exception.try_catch.Finally;
 
 import java.util.Scanner;
 

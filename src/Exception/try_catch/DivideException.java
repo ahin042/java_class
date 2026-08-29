@@ -1,4 +1,4 @@
-package try_catch;
+package Exception.try_catch;
 
 import java.util.Scanner;
 

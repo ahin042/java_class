@@ -21,7 +21,7 @@
 - `Package` — 패키지
 
 ### 예외 처리
-- `try_catch` — try-catch-finally
+- `Exception.try_catch` — try-catch-finally
 - `Exception` — 예외 계층 구조, 커스텀 예외
 - `study_throw` — throw / throws
 

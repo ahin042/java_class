@@ -1,4 +1,4 @@
-package try_catch;
+package Exception.try_catch;
 
 public class ArrayException {
     public static void main(String[] args) {
